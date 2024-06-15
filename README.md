@@ -7,7 +7,7 @@
 <br/>
 - 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications<br/>
 - 🌱 Proficient in front-end technologies like React, Next.js, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 <br/><br/>
 
 # 💻 My SkillSet
